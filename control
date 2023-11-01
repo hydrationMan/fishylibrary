@@ -1,0 +1,9 @@
+Package: com.hydrate.fishylibrary
+Name: FishyLibrary
+Version: 1.5.2
+Architecture: iphoneos-arm
+Description: Lets get fishy. This tweak replaces your app library with some feesh.
+Maintainer: Hydrate
+Author: Hydrate
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
